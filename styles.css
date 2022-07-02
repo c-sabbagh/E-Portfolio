@@ -39,8 +39,8 @@ li {
     margin: 0 auto;
 }
 
-.text--purple {
-    color: #6030b1;
+.text--pink {
+    color: #f4798e;
 }
 
 /* ++++++++++++++++       NAVIGATION BAR       ++++++++++++++++*/ 
@@ -67,7 +67,7 @@ nav {
 }
 
 .nav__link--anchor-primary {
-    background-color: #6030b1;
+    background-color: #f4798e;
     padding: 8px 20px;
     border-radius: 50px;
     color: #fff;
@@ -80,7 +80,7 @@ nav {
 
 .personal__logo {
     font-size: 24px;
-    color: #6030b1;
+    color: #f4798e;
     margin: 0 12px;
     font-weight: bold;
 }
